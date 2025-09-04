@@ -1,5 +1,5 @@
 
-I'm passionate about learning and growing through hands-on coding. As a Junior Software Engineer, I’m continuously expanding my skills while building apps that solve real-world problems.
+
 
 ## 🏆 Favorite Project
 
