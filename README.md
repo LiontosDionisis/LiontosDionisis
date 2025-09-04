@@ -16,15 +16,13 @@ My standout project so far! IOU is a practical application where I’ve deepened
 
 ## 🚀 Core Skills
 
-- **Languages & Frameworks:**  
-  C#, .NET Core, EntityFramework
+- **Languages:**  
+  C#, Java
 
-- **Database:**  
-  MySQL
-
-## 🎸 Beyond Code
-
-When I’m not coding, you’ll find me playing guitar or composing electronic music on my synthesizer. Creativity drives my work—whether it’s writing code or music.
+-  **Tools & Frameworks:** 
+  .NET Core, SpringBoot, EntityFramework, JPA/Hibernate
+- **Databases:**  
+  MySQL, SSMS, MongoDB
 
 ## 🌐 Connect with Me
 
