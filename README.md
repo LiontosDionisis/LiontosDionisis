@@ -1,10 +1,3 @@
-# 👋 Hi, I'm Dionisis Liontos
-
-**Junior Software Engineer**
-
----
-
-> _"Same things make us laugh, make us cry."_
 
 I'm passionate about learning and growing through hands-on coding. As a Junior Software Engineer, I’m continuously expanding my skills while building apps that solve real-world problems.
 
@@ -38,4 +31,3 @@ My standout project so far is IOU, a practical expense-sharing application. Thro
 
 ---
 
-Feel free to explore my repositories or reach out for collaboration!
